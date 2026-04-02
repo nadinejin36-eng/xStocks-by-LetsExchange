@@ -6,8 +6,6 @@
 
 🌐 **Live Platform:** https://letsexchange.io
 
----
-
 ## 🌍 The Problem
 
 Billions of people in developing countries hold crypto but have 
@@ -26,7 +24,6 @@ But everyone holds crypto.
 LetsExchange lets anyone swap BTC, USDT, SOL — or any of 
 **5,700+ crypto assets** — directly into xStocks.
 
-- ✅ No KYC
 - ✅ No bank account
 - ✅ No borders
 - ✅ 300+ blockchains supported
@@ -97,21 +94,5 @@ routing is our next engineering focus.
 - API integrations with wallets and DeFi apps globally
 - Every wallet in a developing country becomes a brokerage
 
----
-
-## 👤 Built By
-
-**Aisuluu** — Chief Business Officer, LetsExchange
-
-> *"I'm from Kyrgyzstan. I built this because I know 
-> firsthand what it means to have savings and no safe 
-> place to put them."*
-
----
-
 > xStocks made equities programmable.  
 > LetsExchange makes them reachable.
-````
-
-Копируй, вставляй в GitHub как `README.md` — готово. Удачи на питче! 🚀# xStocks-by-LetsExchange
-xStocks by LetsExchange 
