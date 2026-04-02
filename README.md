@@ -1,7 +1,4 @@
-Вот финальный README — просто скопируй целиком:
-
-````markdown
-# LetsExchange × xStocks
+300 blockchains. One swap. Your first US stock.
 ### Permissionless Access to Tokenized Equities — From Anywhere in the World
 
 🌐 **Live Platform:** https://letsexchange.io
